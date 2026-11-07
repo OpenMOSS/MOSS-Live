@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1080pt" height="936pt" viewBox="0 0 1080 936" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T14:58:27.233014</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 936 
+L 1080 936 
+L 1080 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 172.8 324.422752 
+L 479.127273 324.422752 
+L 479.127273 159.12 
+L 172.8 159.12 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 172.8 324.422752 
+L 172.8 159.12 
+" clip-path="url(#p44f8302246)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="172.8" y="337.974998" transform="rotate(-0 172.8 337.974998)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 325.963636 324.422752 
+L 325.963636 159.12 
+" clip-path="url(#p44f8302246)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="325.963636" y="337.974998" transform="rotate(-0 325.963636 337.974998)">50</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 479.127273 324.422752 
+L 479.127273 159.12 
+" clip-path="url(#p44f8302246)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="479.127273" y="337.974998" transform="rotate(-0 479.127273 337.974998)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7"/>
+     <g id="text_4">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #0e419c" x="165.8" y="180.945102" transform="rotate(-0 165.8 180.945102)">MOSS Live</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8"/>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="207.183634" transform="rotate(-0 165.8 207.183634)">GPT Realtime 2.1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9"/>
+     <g id="text_6">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="233.422167" transform="rotate(-0 165.8 233.422167)">GPT‑Live-1</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10"/>
+     <g id="text_7">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="259.660699" transform="rotate(-0 165.8 259.660699)">Doubao SeedDuplex</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11"/>
+     <g id="text_8">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="285.899231" transform="rotate(-0 165.8 285.899231)">Qwen Audio 3.0 Plus</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12"/>
+     <g id="text_9">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="312.137763" transform="rotate(-0 165.8 312.137763)">Qwen Audio 3.0 Flash</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 172.8 171.189725 
+L 177.197042 171.189725 
+L 177.197042 183.78422 
+L 172.8 183.78422 
+z
+" clip-path="url(#p44f8302246)" style="fill: #4b99ee"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 172.8 197.428257 
+L 184.517437 197.428257 
+L 184.517437 210.022752 
+L 172.8 210.022752 
+z
+" clip-path="url(#p44f8302246)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 172.8 223.666789 
+L 204.567273 223.666789 
+L 204.567273 236.261284 
+L 172.8 236.261284 
+z
+" clip-path="url(#p44f8302246)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 172.8 249.905321 
+L 216.561039 249.905321 
+L 216.561039 262.499817 
+L 172.8 262.499817 
+z
+" clip-path="url(#p44f8302246)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 172.8 276.143853 
+L 182.555646 276.143853 
+L 182.555646 288.738349 
+L 172.8 288.738349 
+z
+" clip-path="url(#p44f8302246)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 172.8 302.382385 
+L 201.744309 302.382385 
+L 201.744309 314.976881 
+L 172.8 314.976881 
+z
+" clip-path="url(#p44f8302246)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="62.522182" y="134.324587" transform="rotate(-0 62.522182 134.324587)">FDB v1</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="62.522182" y="153.334404" transform="rotate(-0 62.522182 153.334404)">停顿抢话率（不含附和） ↓</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="486.785455" y="180.077305" transform="rotate(-0 486.785455 180.077305)">1.44%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="206.315837" transform="rotate(-0 486.785455 206.315837)">3.83%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="232.554369" transform="rotate(-0 486.785455 232.554369)">10.37%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="258.792901" transform="rotate(-0 486.785455 258.792901)">14.29%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="285.031433" transform="rotate(-0 486.785455 285.031433)">3.18%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="311.269965" transform="rotate(-0 486.785455 311.269965)">9.45%</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 708.872727 324.422752 
+L 1015.2 324.422752 
+L 1015.2 159.12 
+L 708.872727 159.12 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_13">
+      <path d="M 708.872727 324.422752 
+L 708.872727 159.12 
+" clip-path="url(#p658e13b314)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_18">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="708.872727" y="337.974998" transform="rotate(-0 708.872727 337.974998)">0</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_15">
+      <path d="M 862.036364 324.422752 
+L 862.036364 159.12 
+" clip-path="url(#p658e13b314)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_19">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="862.036364" y="337.974998" transform="rotate(-0 862.036364 337.974998)">50</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_17">
+      <path d="M 1015.2 324.422752 
+L 1015.2 159.12 
+" clip-path="url(#p658e13b314)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18"/>
+     <g id="text_20">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="1015.2" y="337.974998" transform="rotate(-0 1015.2 337.974998)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_19"/>
+     <g id="text_21">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #0e419c" x="701.872727" y="180.945102" transform="rotate(-0 701.872727 180.945102)">MOSS Live</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_20"/>
+     <g id="text_22">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="207.183634" transform="rotate(-0 701.872727 207.183634)">GPT Realtime 2.1</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_21"/>
+     <g id="text_23">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="233.422167" transform="rotate(-0 701.872727 233.422167)">GPT‑Live-1</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_22"/>
+     <g id="text_24">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="259.660699" transform="rotate(-0 701.872727 259.660699)">Doubao SeedDuplex</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_23"/>
+     <g id="text_25">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="285.899231" transform="rotate(-0 701.872727 285.899231)">Qwen Audio 3.0 Plus</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_24"/>
+     <g id="text_26">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="312.137763" transform="rotate(-0 701.872727 312.137763)">Qwen Audio 3.0 Flash</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_10">
+    <path d="M 708.872727 171.189725 
+L 714.999273 171.189725 
+L 714.999273 183.78422 
+L 708.872727 183.78422 
+z
+" clip-path="url(#p658e13b314)" style="fill: #4b99ee"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 708.872727 197.428257 
+L 929.428364 197.428257 
+L 929.428364 210.022752 
+L 708.872727 210.022752 
+z
+" clip-path="url(#p658e13b314)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 708.872727 223.666789 
+L 917.175273 223.666789 
+L 917.175273 236.261284 
+L 708.872727 236.261284 
+z
+" clip-path="url(#p658e13b314)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 708.872727 249.905321 
+L 938.618182 249.905321 
+L 938.618182 262.499817 
+L 708.872727 262.499817 
+z
+" clip-path="url(#p658e13b314)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 708.872727 276.143853 
+L 978.440727 276.143853 
+L 978.440727 288.738349 
+L 708.872727 288.738349 
+z
+" clip-path="url(#p658e13b314)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 708.872727 302.382385 
+L 972.314182 302.382385 
+L 972.314182 314.976881 
+L 708.872727 314.976881 
+z
+" clip-path="url(#p658e13b314)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="598.594909" y="134.324587" transform="rotate(-0 598.594909 134.324587)">FDB v1.5</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="598.594909" y="153.334404" transform="rotate(-0 598.594909 153.334404)">无关语音误接话率 ↓</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="1022.858182" y="180.077305" transform="rotate(-0 1022.858182 180.077305)">2.00%</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="206.315837" transform="rotate(-0 1022.858182 206.315837)">72.00%</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="232.554369" transform="rotate(-0 1022.858182 232.554369)">68.00%</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="258.792901" transform="rotate(-0 1022.858182 258.792901)">75.00%</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="285.031433" transform="rotate(-0 1022.858182 285.031433)">88.00%</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="311.269965" transform="rotate(-0 1022.858182 311.269965)">86.00%</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_16">
+    <path d="M 172.8 602.131376 
+L 479.127273 602.131376 
+L 479.127273 436.828624 
+L 172.8 436.828624 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_7">
+     <g id="line2d_25">
+      <path d="M 172.8 602.131376 
+L 172.8 436.828624 
+" clip-path="url(#p13c84a3493)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26"/>
+     <g id="text_35">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="172.8" y="615.683622" transform="rotate(-0 172.8 615.683622)">0</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_27">
+      <path d="M 325.963636 602.131376 
+L 325.963636 436.828624 
+" clip-path="url(#p13c84a3493)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28"/>
+     <g id="text_36">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="325.963636" y="615.683622" transform="rotate(-0 325.963636 615.683622)">50</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_29">
+      <path d="M 479.127273 602.131376 
+L 479.127273 436.828624 
+" clip-path="url(#p13c84a3493)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30"/>
+     <g id="text_37">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="479.127273" y="615.683622" transform="rotate(-0 479.127273 615.683622)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_13">
+     <g id="line2d_31"/>
+     <g id="text_38">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #0e419c" x="165.8" y="458.653726" transform="rotate(-0 165.8 458.653726)">MOSS Live</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_32"/>
+     <g id="text_39">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="484.892258" transform="rotate(-0 165.8 484.892258)">GPT Realtime 2.1</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_33"/>
+     <g id="text_40">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="511.13079" transform="rotate(-0 165.8 511.13079)">GPT‑Live-1</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_34"/>
+     <g id="text_41">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="537.369323" transform="rotate(-0 165.8 537.369323)">Doubao SeedDuplex</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_35"/>
+     <g id="text_42">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="563.607855" transform="rotate(-0 165.8 563.607855)">Qwen Audio 3.0 Plus</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_36"/>
+     <g id="text_43">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="589.846387" transform="rotate(-0 165.8 589.846387)">Qwen Audio 3.0 Flash</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_17">
+    <path d="M 172.8 448.898349 
+L 381.102545 448.898349 
+L 381.102545 461.492844 
+L 172.8 461.492844 
+z
+" clip-path="url(#p13c84a3493)" style="fill: #4b99ee"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 172.8 475.136881 
+L 188.116364 475.136881 
+L 188.116364 487.731376 
+L 172.8 487.731376 
+z
+" clip-path="url(#p13c84a3493)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 172.8 501.375413 
+L 237.128727 501.375413 
+L 237.128727 513.969908 
+L 172.8 513.969908 
+z
+" clip-path="url(#p13c84a3493)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 172.8 527.613945 
+L 212.622545 527.613945 
+L 212.622545 540.20844 
+L 172.8 540.20844 
+z
+" clip-path="url(#p13c84a3493)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 172.8 553.852477 
+L 175.863273 553.852477 
+L 175.863273 566.446972 
+L 172.8 566.446972 
+z
+" clip-path="url(#p13c84a3493)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 172.8 580.091009 
+L 178.926545 580.091009 
+L 178.926545 592.685505 
+L 172.8 592.685505 
+z
+" clip-path="url(#p13c84a3493)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="62.522182" y="412.033211" transform="rotate(-0 62.522182 412.033211)">FDB v1.5</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="62.522182" y="431.043028" transform="rotate(-0 62.522182 431.043028)">无关打断拒识率 ↑</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="486.785455" y="457.785928" transform="rotate(-0 486.785455 457.785928)">68.00%</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="484.02446" transform="rotate(-0 486.785455 484.02446)">5.00%</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="510.262993" transform="rotate(-0 486.785455 510.262993)">21.00%</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="536.501525" transform="rotate(-0 486.785455 536.501525)">13.00%</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="562.740057" transform="rotate(-0 486.785455 562.740057)">1.00%</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="588.978589" transform="rotate(-0 486.785455 588.978589)">2.00%</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_23">
+    <path d="M 708.872727 602.131376 
+L 1015.2 602.131376 
+L 1015.2 436.828624 
+L 708.872727 436.828624 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_10">
+     <g id="line2d_37">
+      <path d="M 708.872727 602.131376 
+L 708.872727 436.828624 
+" clip-path="url(#p113a99c66c)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38"/>
+     <g id="text_52">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="708.872727" y="615.683622" transform="rotate(-0 708.872727 615.683622)">0</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_39">
+      <path d="M 862.036364 602.131376 
+L 862.036364 436.828624 
+" clip-path="url(#p113a99c66c)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_40"/>
+     <g id="text_53">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="862.036364" y="615.683622" transform="rotate(-0 862.036364 615.683622)">50</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_41">
+      <path d="M 1015.2 602.131376 
+L 1015.2 436.828624 
+" clip-path="url(#p113a99c66c)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_42"/>
+     <g id="text_54">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="1015.2" y="615.683622" transform="rotate(-0 1015.2 615.683622)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_19">
+     <g id="line2d_43"/>
+     <g id="text_55">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #0e419c" x="701.872727" y="458.653726" transform="rotate(-0 701.872727 458.653726)">MOSS Live</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_44"/>
+     <g id="text_56">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="484.892258" transform="rotate(-0 701.872727 484.892258)">GPT Realtime 2.1</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_45"/>
+     <g id="text_57">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="511.13079" transform="rotate(-0 701.872727 511.13079)">GPT‑Live-1</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_46"/>
+     <g id="text_58">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="537.369323" transform="rotate(-0 701.872727 537.369323)">Doubao SeedDuplex</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_47"/>
+     <g id="text_59">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="563.607855" transform="rotate(-0 701.872727 563.607855)">Qwen Audio 3.0 Plus</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_48"/>
+     <g id="text_60">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="589.846387" transform="rotate(-0 701.872727 589.846387)">Qwen Audio 3.0 Flash</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_24">
+    <path d="M 708.872727 448.898349 
+L 1009.605178 448.898349 
+L 1009.605178 461.492844 
+L 708.872727 461.492844 
+z
+" clip-path="url(#p113a99c66c)" style="fill: #4b99ee"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 708.872727 475.136881 
+L 881.223896 475.136881 
+L 881.223896 487.731376 
+L 708.872727 487.731376 
+z
+" clip-path="url(#p113a99c66c)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 708.872727 501.375413 
+L 989.382913 501.375413 
+L 989.382913 513.969908 
+L 708.872727 513.969908 
+z
+" clip-path="url(#p113a99c66c)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 708.872727 527.613945 
+L 995.345455 527.613945 
+L 995.345455 540.20844 
+L 708.872727 540.20844 
+z
+" clip-path="url(#p113a99c66c)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 708.872727 553.852477 
+L 910.051813 553.852477 
+L 910.051813 566.446972 
+L 708.872727 566.446972 
+z
+" clip-path="url(#p113a99c66c)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 708.872727 580.091009 
+L 910.033097 580.091009 
+L 910.033097 592.685505 
+L 708.872727 592.685505 
+z
+" clip-path="url(#p113a99c66c)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="text_61">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="598.594909" y="412.033211" transform="rotate(-0 598.594909 412.033211)">τ-Voice</text>
+   </g>
+   <g id="text_62">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="598.594909" y="431.043028" transform="rotate(-0 598.594909 431.043028)">附和抗干扰率 ↑</text>
+   </g>
+   <g id="text_63">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="1022.858182" y="457.785928" transform="rotate(-0 1022.858182 457.785928)">98.17%</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="484.02446" transform="rotate(-0 1022.858182 484.02446)">56.26%</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="510.262993" transform="rotate(-0 1022.858182 510.262993)">91.57%</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="536.501525" transform="rotate(-0 1022.858182 536.501525)">93.52%</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="562.740057" transform="rotate(-0 1022.858182 562.740057)">65.67%</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="588.978589" transform="rotate(-0 1022.858182 588.978589)">65.67%</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_30">
+    <path d="M 172.8 879.84 
+L 479.127273 879.84 
+L 479.127273 714.537248 
+L 172.8 714.537248 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_9">
+    <g id="xtick_13">
+     <g id="line2d_49">
+      <path d="M 172.8 879.84 
+L 172.8 714.537248 
+" clip-path="url(#pe2cc40bfae)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_50"/>
+     <g id="text_69">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="172.8" y="893.392246" transform="rotate(-0 172.8 893.392246)">0</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_51">
+      <path d="M 325.963636 879.84 
+L 325.963636 714.537248 
+" clip-path="url(#pe2cc40bfae)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_52"/>
+     <g id="text_70">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="325.963636" y="893.392246" transform="rotate(-0 325.963636 893.392246)">50</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_53">
+      <path d="M 479.127273 879.84 
+L 479.127273 714.537248 
+" clip-path="url(#pe2cc40bfae)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_54"/>
+     <g id="text_71">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="479.127273" y="893.392246" transform="rotate(-0 479.127273 893.392246)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_10">
+    <g id="ytick_25">
+     <g id="line2d_55"/>
+     <g id="text_72">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #0e419c" x="165.8" y="736.36235" transform="rotate(-0 165.8 736.36235)">MOSS Live</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_56"/>
+     <g id="text_73">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="762.600882" transform="rotate(-0 165.8 762.600882)">GPT Realtime 2.1</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_57"/>
+     <g id="text_74">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="788.839414" transform="rotate(-0 165.8 788.839414)">GPT‑Live-1</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_58"/>
+     <g id="text_75">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="815.077946" transform="rotate(-0 165.8 815.077946)">Doubao SeedDuplex</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_59"/>
+     <g id="text_76">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="841.316479" transform="rotate(-0 165.8 841.316479)">Qwen Audio 3.0 Plus</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_60"/>
+     <g id="text_77">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="165.8" y="867.555011" transform="rotate(-0 165.8 867.555011)">Qwen Audio 3.0 Flash</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_31">
+    <path d="M 172.8 726.606972 
+L 424.492399 726.606972 
+L 424.492399 739.201468 
+L 172.8 739.201468 
+z
+" clip-path="url(#pe2cc40bfae)" style="fill: #4b99ee"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 172.8 752.845505 
+L 349.696148 752.845505 
+L 349.696148 765.44 
+L 172.8 765.44 
+z
+" clip-path="url(#pe2cc40bfae)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 172.8 779.084037 
+L 321.302134 779.084037 
+L 321.302134 791.678532 
+L 172.8 791.678532 
+z
+" clip-path="url(#pe2cc40bfae)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 172.8 805.322569 
+L 386.175385 805.322569 
+L 386.175385 817.917064 
+L 172.8 817.917064 
+z
+" clip-path="url(#pe2cc40bfae)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 172.8 831.561101 
+L 236.472312 831.561101 
+L 236.472312 844.155596 
+L 172.8 844.155596 
+z
+" clip-path="url(#pe2cc40bfae)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 172.8 857.799633 
+L 215.877273 857.799633 
+L 215.877273 870.394128 
+L 172.8 870.394128 
+z
+" clip-path="url(#pe2cc40bfae)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="text_78">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="62.522182" y="689.741835" transform="rotate(-0 62.522182 689.741835)">τ-Voice</text>
+   </g>
+   <g id="text_79">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="62.522182" y="708.751651" transform="rotate(-0 62.522182 708.751651)">口头语抗干扰率 ↑</text>
+   </g>
+   <g id="text_80">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="486.785455" y="735.494552" transform="rotate(-0 486.785455 735.494552)">82.16%</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="761.733084" transform="rotate(-0 486.785455 761.733084)">57.75%</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="787.971616" transform="rotate(-0 486.785455 787.971616)">48.48%</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="814.210149" transform="rotate(-0 486.785455 814.210149)">69.66%</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="840.448681" transform="rotate(-0 486.785455 840.448681)">20.79%</text>
+   </g>
+   <g id="text_85">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="486.785455" y="866.687213" transform="rotate(-0 486.785455 866.687213)">14.06%</text>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_37">
+    <path d="M 708.872727 879.84 
+L 1015.2 879.84 
+L 1015.2 714.537248 
+L 708.872727 714.537248 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_11">
+    <g id="xtick_16">
+     <g id="line2d_61">
+      <path d="M 708.872727 879.84 
+L 708.872727 714.537248 
+" clip-path="url(#p26e4c32fda)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_62"/>
+     <g id="text_86">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="708.872727" y="893.392246" transform="rotate(-0 708.872727 893.392246)">0</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_63">
+      <path d="M 862.036364 879.84 
+L 862.036364 714.537248 
+" clip-path="url(#p26e4c32fda)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_64"/>
+     <g id="text_87">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="862.036364" y="893.392246" transform="rotate(-0 862.036364 893.392246)">50</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_65">
+      <path d="M 1015.2 879.84 
+L 1015.2 714.537248 
+" clip-path="url(#p26e4c32fda)" style="fill: none; stroke: #dbe3f2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_66"/>
+     <g id="text_88">
+      <text style="font-size: 9px; font-family: 'Arial Unicode MS'; text-anchor: middle; fill: #51607a" x="1015.2" y="893.392246" transform="rotate(-0 1015.2 893.392246)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_12">
+    <g id="ytick_31">
+     <g id="line2d_67"/>
+     <g id="text_89">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #0e419c" x="701.872727" y="736.36235" transform="rotate(-0 701.872727 736.36235)">MOSS Live</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_68"/>
+     <g id="text_90">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="762.600882" transform="rotate(-0 701.872727 762.600882)">GPT Realtime 2.1</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_69"/>
+     <g id="text_91">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="788.839414" transform="rotate(-0 701.872727 788.839414)">GPT‑Live-1</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_70"/>
+     <g id="text_92">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="815.077946" transform="rotate(-0 701.872727 815.077946)">Doubao SeedDuplex</text>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_71"/>
+     <g id="text_93">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="841.316479" transform="rotate(-0 701.872727 841.316479)">Qwen Audio 3.0 Plus</text>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="line2d_72"/>
+     <g id="text_94">
+      <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: end; fill: #1a2233" x="701.872727" y="867.555011" transform="rotate(-0 701.872727 867.555011)">Qwen Audio 3.0 Flash</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_38">
+    <path d="M 708.872727 726.606972 
+L 950.580237 726.606972 
+L 950.580237 739.201468 
+L 708.872727 739.201468 
+z
+" clip-path="url(#p26e4c32fda)" style="fill: #4b99ee"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 708.872727 752.845505 
+L 791.875686 752.845505 
+L 791.875686 765.44 
+L 708.872727 765.44 
+z
+" clip-path="url(#p26e4c32fda)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 708.872727 779.084037 
+L 914.072727 779.084037 
+L 914.072727 791.678532 
+L 708.872727 791.678532 
+z
+" clip-path="url(#p26e4c32fda)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 708.872727 805.322569 
+L 893.945455 805.322569 
+L 893.945455 817.917064 
+L 708.872727 817.917064 
+z
+" clip-path="url(#p26e4c32fda)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 708.872727 831.561101 
+L 750.593271 831.561101 
+L 750.593271 844.155596 
+L 708.872727 844.155596 
+z
+" clip-path="url(#p26e4c32fda)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 708.872727 857.799633 
+L 751.175065 857.799633 
+L 751.175065 870.394128 
+L 708.872727 870.394128 
+z
+" clip-path="url(#p26e4c32fda)" style="fill: #c9cdd2"/>
+   </g>
+   <g id="text_95">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="598.594909" y="689.741835" transform="rotate(-0 598.594909 689.741835)">τ-Voice</text>
+   </g>
+   <g id="text_96">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="598.594909" y="708.751651" transform="rotate(-0 598.594909 708.751651)">无关语音抗干扰率 ↑</text>
+   </g>
+   <g id="text_97">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #0e419c" x="1022.858182" y="735.494552" transform="rotate(-0 1022.858182 735.494552)">78.90%</text>
+   </g>
+   <g id="text_98">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="761.733084" transform="rotate(-0 1022.858182 761.733084)">27.10%</text>
+   </g>
+   <g id="text_99">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="787.971616" transform="rotate(-0 1022.858182 787.971616)">66.99%</text>
+   </g>
+   <g id="text_100">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="814.210149" transform="rotate(-0 1022.858182 814.210149)">60.42%</text>
+   </g>
+   <g id="text_101">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="840.448681" transform="rotate(-0 1022.858182 840.448681)">13.62%</text>
+   </g>
+   <g id="text_102">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="1022.858182" y="866.687213" transform="rotate(-0 1022.858182 866.687213)">13.81%</text>
+   </g>
+  </g>
+  <g id="text_103">
+   <text style="font-weight: 700; font-size: 29px; font-family: 'Arial Unicode MS'; text-anchor: start; fill: #1a2233" x="48.6" y="56.16" transform="rotate(-0 48.6 56.16)">全双工能力</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p44f8302246">
+   <rect x="172.8" y="159.12" width="306.327273" height="165.302752"/>
+  </clipPath>
+  <clipPath id="p658e13b314">
+   <rect x="708.872727" y="159.12" width="306.327273" height="165.302752"/>
+  </clipPath>
+  <clipPath id="p13c84a3493">
+   <rect x="172.8" y="436.828624" width="306.327273" height="165.302752"/>
+  </clipPath>
+  <clipPath id="p113a99c66c">
+   <rect x="708.872727" y="436.828624" width="306.327273" height="165.302752"/>
+  </clipPath>
+  <clipPath id="pe2cc40bfae">
+   <rect x="172.8" y="714.537248" width="306.327273" height="165.302752"/>
+  </clipPath>
+  <clipPath id="p26e4c32fda">
+   <rect x="708.872727" y="714.537248" width="306.327273" height="165.302752"/>
+  </clipPath>
+ </defs>
+</svg>
