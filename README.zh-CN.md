@@ -161,6 +161,13 @@ https://github.com/user-attachments/assets/6d4f47aa-3c31-4dcc-b2ad-87930fea341e
 试着让它规划一次旅行，中途改变主意，或打开摄像头，聊聊眼前看到的事物。
 
 
+## 加入微信交流群
+
+欢迎扫描下方二维码加入 MOSS-Live 微信交流群，交流体验反馈、实时交互与 Voice Agent。
+
+<a href="assets/wechat-community.jpg"><img src="assets/wechat-community.jpg" width="480" alt="MOSS-Live WeChat community QR code"></a>
+
+
 ## 引用
 
 如果你在研究或项目中使用 MOSS-Live，请引用：

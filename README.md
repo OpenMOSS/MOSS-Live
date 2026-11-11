@@ -161,6 +161,13 @@ Try MOSS-Live in the [online playground](https://platform.moss.cn/app/playground
 Plan a trip, change your mind halfway through, or turn on the camera and talk about what you see.
 
 
+## Join the community
+
+Scan the QR code with WeChat to join the MOSS-Live community, share feedback, and discuss real-time interaction and voice agents.
+
+<a href="assets/wechat-community.jpg"><img src="assets/wechat-community.jpg" width="480" alt="MOSS-Live WeChat community QR code"></a>
+
+
 ## Citation
 
 If you use MOSS-Live in your research or projects, please cite:
